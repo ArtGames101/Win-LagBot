@@ -1,10 +1,10 @@
-# Zika-Trojan
-A Virus that does stuff XD
+# Win LagBot
+A LagBot (lags your pc)
 
-![Type](https://img.shields.io/badge/Type-Trojan-red.svg) 
+![Type](https://img.shields.io/badge/Type-LagBot-red.svg) 
 
 # Description
-Zika is a Trojan/Lagbot that will make your computer REALLY slow and eventualy crash
+LagBot is a Trojan/Lagbot that will make your computer REALLY slow and eventualy crash
 It Can also make finding Applications really annoying!
 
 # Creator
